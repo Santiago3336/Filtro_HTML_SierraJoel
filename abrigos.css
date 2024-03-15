@@ -40,3 +40,13 @@ body{
     top: 85%;
     left: 7.5%;
 }
+
+.mainSquare {
+    width: 65vw;
+    height: 85vh;
+    margin: 3.5%;
+    border: solid 1px black;
+    border-radius: 2%;
+    position: relative;
+    float: right;
+}
