@@ -9,6 +9,10 @@ body{
     height: 100vh;
 }
 
+#titleCamp{
+    font-size: 330%;
+}
+
 .leftBar{
     position: absolute;
     height: 100vh;

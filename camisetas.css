@@ -20,6 +20,10 @@ body{
     justify-content: center;
 }
 
+#titleCamp{
+    font-size: 330%;
+}
+
 #leftBarContent{
     height: 75vh;
     display: flex;
